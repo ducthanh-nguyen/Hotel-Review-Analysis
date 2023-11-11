@@ -1,5 +1,10 @@
 # Hotel-Review-Analysis
 
+#### Data Questions
+- Top words used in the reviews
+- Important words in the reviews
+- Prediction of star ratings
+
 #### Tasks
 - Data Exploration
 - Data Preprocessing
