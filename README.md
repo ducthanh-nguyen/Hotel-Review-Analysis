@@ -16,7 +16,7 @@
 Python (Jupyter Notebook)
 
 #### Techniques
-Bag of Words (BOW) and Term Frequency-Inverse Document Frequency (TF-IDF)
+Bag of Words (BOW) and Term Frequency-Inverse Document Frequency (TF-IDF) <br>
 Binary Sentiment Prediction or Multi-Class Rating Prediction
 
 #### Data Set
